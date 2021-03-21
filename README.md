@@ -23,5 +23,7 @@
 | [Dhakshin Parimalakumar](https://github.com/DhakshinP) | <img src="https://github.com/DhakshinP.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
 | [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
 | [Nicole Bain](http://github.com/nicolebainn) | <img src="https://github.com/nicolebainn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
+| [Chris Morgan](http://github.com/dynafide) | <img src="https://github.com/dynafide.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
 
+ 
  
