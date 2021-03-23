@@ -12,7 +12,12 @@
 * Webmaster
 * Release Manager
 * Assembly Language Design Manager
+* UX Manager
+* UI Manager
+* QA Manager
 * Lighting Electronics Assembly Manager
+* Mechanics Assembly Manager
+* Systems Integration Manager
 ### Pending Roles (Leadership Team)
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
