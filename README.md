@@ -9,6 +9,7 @@
 | [Charles Logston](https://github.com/BESTTeam58) | <img src="https://github.com/BESTTeam58.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Electrical Engineering<br/>Structural Assembly |
 | [Lisa Jang](https://github.com/mrsjang21) | <img src="https://github.com/mrsjang21.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Electronics Engineering<br/>Structural Assembly |
 ### Roles in Need of Leaders
+* Secretary
 * Webmaster
 * Release Manager
 * Assembly Language Design Manager
