@@ -1,4 +1,4 @@
-# MAE - Modern Analytical Engine
+# Modern Analytical Engine (MAE)
 ## What
 ## Who
 ### Lead Visionaries
@@ -13,24 +13,20 @@
 * Photographer
 * Virtual Machine Software Engineering
 * Security Czar
-### Pending Roles (Leadership Team)
+### Team Managers
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | * Hardware Design and Robotics Co-manager |
-| [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  * Hardware Design and Robotics Co-manager |
-| [Matthew Caldarola](https://github.com/roboticsDev1584) | <img src="https://github.com/roboticsDev1584.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Sahil Sheth](https://github.com/ThatGuy) | <img src="https://github.com/ThatGuy.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Ethan Forbes](https://github.com/Racoln) | <img src="https://github.com/Racoln.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Vedant Singhania](https://github.com/vedant205) | <img src="https://github.com/vedant205.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Jonathan He](https://github.com/hejonathan) | <img src="https://github.com/hejonathan.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Dhakshin Parimalakumar](https://github.com/DhakshinP) | <img src="https://github.com/DhakshinP.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Nicole Bain](http://github.com/nicolebainn) | <img src="https://github.com/nicolebainn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Chris Morgan](http://github.com/dynafide) | <img src="https://github.com/dynafide.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
-| [Aidan Kollar](http://github.com/BandaidMan) | <img src="https://github.com/BandaidMan.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | PENDING |
+| [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Hardware Design and Robotics Co-manager |
+| [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  Hardware Design and Robotics Co-manager |
+| [Sahil Sheth](https://github.com/ThatGuy) | <img src="https://github.com/ThatGuy.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UX Manager |
+| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect Manager |
+| [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Secretary Manager |
+| [Vedant Singhania](https://github.com/vedant205) | <img src="https://github.com/vedant205.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Webmaster Manager |
+| [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Systems Integration Manager |
+| [Chris Morgan](http://github.com/dynafide) | <img src="https://github.com/dynafide.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Repository and Release Manager |
+| [Nidhi Pabbathi](http://github.com) | <img src="https://github.com" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UI Manager |
+| [Noah Chin](http://github.com) | <img src="https://github.com" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Quality Assurance Manager |
 
-
- 
- 
+### Built With
+### License
+See the [LICENSE.md](LICENSE.md/LICENSE.md) for details
