@@ -19,7 +19,7 @@
 | [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Hardware Design and Robotics Co-manager |
 | [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  Hardware Design and Robotics Co-manager |
 | [Sahil Sheth](https://github.com/ThatGuy) | <img src="https://github.com/ThatGuy.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UX Manager |
-| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect Manager |
+| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect |
 | [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Secretary Manager |
 | [Vedant Singhania](https://github.com/vedant205) | <img src="https://github.com/vedant205.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Webmaster Manager |
 | [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Systems Integration Manager |
